@@ -84,20 +84,18 @@ div .splash div.gradient{
   inset: 0;
 } */
 
- .top {
-  background-image: linear-gradient(65deg, black, transparent), url('https://i.pinimg.com/enabled_lo_mid/736x/c6/55/5a/c6555a4c773eff5eaed3d1e1e140dc52.jpg');
+ 
+/* Hero Section */
+
+.top {
+  background-image:linear-gradient(65deg, black, transparent), url('https://i.pinimg.com/enabled_lo_mid/736x/c6/55/5a/c6555a4c773eff5eaed3d1e1e140dc52.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: 100% 100% cover;
-  height: 100%;
+  background-size: 100% 100% ;
   width: 100%;
-  font-family: Arial, Helvetica, sans-serif;
   margin: 0px;
   opacity: 0.9;
 }
-/* Hero Section */
-
-
 .hero {
   text-align: center;
   padding: 100px 20px;
